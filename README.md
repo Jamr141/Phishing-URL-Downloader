@@ -57,7 +57,7 @@ pip install requests
 Simplemente ejecuta el script en tu entorno de Python. Se descargará el archivo CSV, se procesará y se generará un archivo de texto con las URLs de phishing. Recuerda usar esta herramienta de manera ética y profesional para ayudar a proteger a las personas y organizaciones de amenazas de phishing.
 
 ```bash
-python tu_script.py
+python Phishing_URL_Downloader.py
 ```
 
 ## Contribuciones
