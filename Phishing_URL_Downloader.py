@@ -4,7 +4,7 @@ import shutil
 import os
 
 # URL del archivo CSV (comprimido)
-url = "Ingresa tu URL"
+url = "http://data.phishtank.com/data/online-valid.csv.gz"
 
 try:
     # Descargar el archivo comprimido
